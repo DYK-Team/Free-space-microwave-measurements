@@ -1,3 +1,3 @@
-# Free-space-microwave-measurements
+# Design and Implementation of a Microwave Laboratory for Composite Material Testing
 
 The report and programs are coming soon.... 
